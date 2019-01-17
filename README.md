@@ -2,7 +2,7 @@
 1. [Requirements](#requirements)
 2. [License](#license)
 
-I have re-used code from a lot of online resources, the three most significant ones being :-
+I have re-purposed and manipulated code online resources, the three most significant ones being :-
 1. [This](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) blogpost by the creator of keras - Francois Chollet.
 2. [This](https://github.com/heuritech/convnets-keras) project by Heuritech, which has implemented the AlexNet architecture.
 3. [here](https://rahulduggal2608.wordpress.com/2017/04/02/alexnet-in-keras/) blogpost by Rahul Duggal.
